@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\VerbanacTeoVrijeme\VerbanacTeoVrijeme\obj\Debug\VerbanacTeoVrijeme.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik\source\repos\VerbanacTeoVrijeme\VerbanacTeoVrijeme\obj\Debug\VerbanacTeoVrijeme.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\VerbanacTeoVrijeme\VerbanacTeoVrijeme\bin\Debug\VerbanacTeoVrijeme.exe.config
+C:\Users\Ucenik\source\repos\VerbanacTeoVrijeme\VerbanacTeoVrijeme\bin\Debug\VerbanacTeoVrijeme.exe
+C:\Users\Ucenik\source\repos\VerbanacTeoVrijeme\VerbanacTeoVrijeme\bin\Debug\VerbanacTeoVrijeme.pdb
+C:\Users\Ucenik\source\repos\VerbanacTeoVrijeme\VerbanacTeoVrijeme\obj\Debug\VerbanacTeoVrijeme.exe
+C:\Users\Ucenik\source\repos\VerbanacTeoVrijeme\VerbanacTeoVrijeme\obj\Debug\VerbanacTeoVrijeme.pdb
