@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\VerbanacTeoIO\VerbanacTeoIO\obj\Debug\VerbanacTeoIO.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik\source\repos\VerbanacTeoIO\VerbanacTeoIO\obj\Debug\VerbanacTeoIO.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\VerbanacTeoIO\VerbanacTeoIO\bin\Debug\VerbanacTeoIO.exe.config
+C:\Users\Ucenik\source\repos\VerbanacTeoIO\VerbanacTeoIO\bin\Debug\VerbanacTeoIO.exe
+C:\Users\Ucenik\source\repos\VerbanacTeoIO\VerbanacTeoIO\bin\Debug\VerbanacTeoIO.pdb
+C:\Users\Ucenik\source\repos\VerbanacTeoIO\VerbanacTeoIO\obj\Debug\VerbanacTeoIO.exe
+C:\Users\Ucenik\source\repos\VerbanacTeoIO\VerbanacTeoIO\obj\Debug\VerbanacTeoIO.pdb
